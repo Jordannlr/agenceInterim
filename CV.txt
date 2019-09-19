@@ -1,0 +1,7 @@
+Nom :toto:
+Prenom :toto:
+Adresse mail :bbb@gmail.com:
+Niveau etudes :Bac+10:
+Telephone :9999999999:
+Profession : avocat:
+Ville :Nantes:
